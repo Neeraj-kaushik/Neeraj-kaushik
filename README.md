@@ -36,7 +36,7 @@
 |---|---|---|---|
 | **GrainSetu** | Grain marketplace with 20+ farmers and buyers, competitive bidding and Razorpay-secured escrow payments | React.js, SCSS | [Live](https://grainsetu.com/) |
 | **Task Manager** | Full-stack task app with JWT authentication | React, Node.js, Express, MongoDB | [Code](https://github.com/Neeraj-kaushik/task_management_adit) |
-| **Knowella** | CSV pipeline, hot-topics feed and rate-limited fleet dashboard in one React app | React, React Router | [Code](https://github.com/Neeraj-kaushik/Knowella) |
+| **Knowella** | CSV pipeline, hot-topics feed and rate-limited fleet dashboard in one React app | React, React Router | [Live](https://knowella.vercel.app/) · [Code](https://github.com/Neeraj-kaushik/Knowella) |
 | **QKart** | E-commerce app with authentication, cart, search, filters and checkout | React.js, Redux, Material UI, Jest | [Live](https://qkart-frontend-green.vercel.app/) |
 | **QTrip** | Travel booking app with filtering, search and localStorage session persistence | React.js | [Live](https://qtrip-dynamic-delta-flax.vercel.app/) |
 
